@@ -1,0 +1,29 @@
+ 
+
+body{
+    margin:0px;
+}
+h1{
+    font:48px;
+    width:auto;
+}
+h2{
+    font:36px;
+    margin:0;
+    text-align:center
+}
+h3{
+    font:28px;
+}
+
+header{
+    background-color: #588C94;
+    color: white;
+    text-align: center;
+    margin:0px;
+    padding: 50px
+    }
+ .my-last-box{
+     background-color: #1D3C41;
+ }
+ 
