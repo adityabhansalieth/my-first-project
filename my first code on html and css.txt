@@ -1,0 +1,19 @@
+
+ <!DOCtypehtml>
+ <html>
+     <head>
+         <title>that is meeeeee </title>
+     </head>
+     <body style="background-color: #28282B" >
+         <h1 style="color: white; font-size: 50px; text-align: center; " >About me</h1>
+         <p style="text-align: center; color: white; " >So my name is aditya bhansali from Delhi, i am not just a law student who is crazy about web3 i am much more than that.I love to interact with new people and crack really bad puns.i have been depressed but i came out of that, was quite tough but yeah. let us know more about my self. Let's Gooooooo  </p>
+         <h2 style="color: yellow" >MY HOBBIES</h2>
+         <p style="font: comic sans; color: white; " >i have quite a lot of hhobbies, i mean i like to do so many things like, playing badminton, playing football, making and eating food, cracking really bad puns, i enjoy EDM a lot (i mean i can vibe on it totally),i peform martial arts, i like to hit the gym every single day, i live to invest money, and yeha that that is it  </p>
+         <h2 style="color: #39FF14;" >MY PASSION</h2>
+         <P style="text; color: white " >Though a very wried sub heading but anyways, ya i want to be a VC very soon, i like to invest in risky assets(kick milti hai), i want to be an entrepreneur (as i do run my business with the name of MUNCH 24 fuck yess bitch and i want to scale it), i want to do something crazy in the web3 space (i mena kese bhi, either through law, or as a co founder or as a founder kuch bhi but this is the future and i want to make in it, simple as that)</P>
+         <h3 style="color: #39FF14;" >My Social Handels</h3>
+         <p style="color: white;" >if you want to check my instagram <a href="instagram.html" style="color: black; ;background-color: #39FF14;"> click here</a>
+         if you want to check out my linkidn <a href="linkidin.html"style="color: black; ;background-color: #39FF14;""> click here</a> </p>
+         
+     </body>
+ </html>
